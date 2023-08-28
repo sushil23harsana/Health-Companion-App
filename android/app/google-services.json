@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "507613589987",
+    "project_id": "local-talent-342112",
+    "storage_bucket": "local-talent-342112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507613589987:android:33a90ec872e8cb77b530d6",
+        "android_client_info": {
+          "package_name": "com.swastha.swastha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507613589987-qsa4sgd5l4evdvkicaptr7od68vavguu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDini29AHvT0CHUG4l7NCYyRTdi-Io5Iu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507613589987-c4aj2ejm7d9p16fqqtfhveb3q0u2reau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507613589987-r4t5vgv3s05rv0l83lbd46vdjgv58vba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swastha.swastha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
